@@ -1,0 +1,92 @@
+body{
+    background-color: black;
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    text align:center;
+}
+.about-section{
+    margin top:80px;
+    padding:20px;
+}
+.about-section h2{
+    color:gold;
+}
+.about-section p{
+    color: pink;
+    line height:1.6;
+    max: width 700px;
+    margin:auto;
+}
+.gallery section{
+    text-align: center;
+    padding: 20px;
+}
+.gallery-section img{
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+    border:3px solid gold;
+    border-radius: 10px;
+}
+ .gallery-section h2{
+    color:gold;
+    font-size: 40px;
+ }
+ }   
+    
+}
+.contact-section{
+    text-align: center;
+    margin top:60px;
+    padding: 20px;
+}
+.conntact-section h2{
+    color:gold;
+}
+.contact-section p{
+    color:bisque;
+    font-size:18px;
+    line-height:1.8;
+
+}
+body{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(backround.jpg);
+    background-size: cover;
+    background-position:no repeat;
+    color:white;
+}
+.top header{
+    color: purple;
+}
+header{
+    padding:20px;
+}
+.logo-section{
+    display:flex;
+    align-items:center ;
+    gap: 15px;
+}
+.logo-section img{
+    width: 80px;
+    height:80px;
+}
+.logo-section h1{
+    color:white;
+    font-size:40px;
+    margin:0;
+}
+nav{
+    margin-top: 15px;
+}
+nav a{
+    color:white;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 18px;
+}
+}
